@@ -1,0 +1,22 @@
+{
+  "name": "world-entities",
+  "version": "1.0.0",
+  "description": "cypress api tests for world api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukeskehoe/world-entities.git"
+  },
+  "author": "luke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukeskehoe/world-entities/issues"
+  },
+  "homepage": "https://github.com/lukeskehoe/world-entities#readme",
+  "devDependencies": {
+    "cypress": "^9.5.1"
+  }
+}
